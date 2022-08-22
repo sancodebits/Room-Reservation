@@ -28,7 +28,7 @@ it mean that by default application is running on localhost and port no is 8080;
 to confirm about table creation you can go and run query in database about table view you may find many table is created:
 
 query are given below:
-show databases;![5_sp](https://user-images.githubusercontent.com/105698566/185991064-8aeea1aa-fed3-4eb4-96ae-1dbf87778bdd.png)
+
 use miniproject;
 show tables;
 describe table "-name of table_";
@@ -53,7 +53,7 @@ Here method is shown from here we can change method and accordingly we can manag
 this is view of postman which is here acting as client:
 as we use get method to get the data of  /admin from local host as it is launched on local host.
 
-![5_sp](https://user-images.githubusercontent.com/105698566/185991341-23243df2-ea51-4923-8ae0-4e27811cf422.png)
+//![5_sp](https://user-images.githubusercontent.com/105698566/185991341-23243df2-ea51-4923-8ae0-4e27811cf422.png)
 
 
 
