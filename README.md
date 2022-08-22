@@ -1,4 +1,4 @@
-# ROOM-RESERVATION
+# ROOM-RESERVATION (spring boot)
 it is also a basic but interesting project related to concept of booking with few feature.
 
 Step to Run this Project Application is:
