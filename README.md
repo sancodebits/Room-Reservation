@@ -53,7 +53,7 @@ Here method is shown from here we can change method and accordingly we can manag
 this is view of postman which is here acting as client:
 as we use get method to get the data of  /admin from local host as it is launched on local host.
 
-//![5_sp](https://user-images.githubusercontent.com/105698566/185991341-23243df2-ea51-4923-8ae0-4e27811cf422.png)
+![5_sp](https://user-images.githubusercontent.com/105698566/185991341-23243df2-ea51-4923-8ae0-4e27811cf422.png)
 
 
 
